@@ -1,0 +1,23 @@
+Код для Default.aspx
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs"      Inherits="TestAspNet45.Default" %> 
+ 
+<!DOCTYPE html> 
+ 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head runat="server"> 
+    <title></title> 
+</head> 
+<body> 
+    <form id="form1" runat="server"> 
+    <div> 
+        <h1>Привет!</h1> 
+<h2> пока </h2>
+        <p>Это новая веб-форма!</p> 
+<p>Всем спокойной ночи!</p>
+<p>123lo</p>
+<p> 2 в сырном, будьте бобры </p>
+    </div> йцуйуй
+    </form> 
+</body> 
+</html> 
+
